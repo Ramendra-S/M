@@ -1,0 +1,29 @@
+Initial population : 
+1.  1010111100
+2.  0011011110
+3.  1111110010
+4.  0011001001
+5.  1111101011
+6.  0111011111
+
+
+Final Population after 100000 generation : 
+1.  0000000000
+2.  0000000000
+3.  0000000000
+4.  0000000000
+5.  0000000000
+6.  0000000000
+
+
+Position and Function value of all population : 
+Population#	x1	x2	f(x1,x2)
+1		0	0	0
+2		0	0	0
+3		0	0	0
+4		0	0	0
+5		0	0	0
+6		0	0	0
+
+
+The minimum of given problem lies at x1 = 0, x2 = 0, and minimum function value is f(x1,x2) = 0.
